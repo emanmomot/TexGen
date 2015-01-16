@@ -1,0 +1,8 @@
+TexGen/Expression.java
+TexGen/LispElement.java
+TexGen/Parameter.java
+TexGen/Arithmetic.java
+TexGen/Mod.java
+TexGen/BWNoise.java
+TexGen/TextureGenerator.java
+TexGen/Visitor.java
